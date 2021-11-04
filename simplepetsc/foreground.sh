@@ -2,4 +2,4 @@
 
 apt update
 
-apt install petsc-dev
+apt -y install petsc-dev
