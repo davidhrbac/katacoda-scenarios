@@ -18,6 +18,7 @@
     }
   },
   "environment": {
+    "hidefinish": true,
     "uilayout": "vscode"
   },
   "backend": {
