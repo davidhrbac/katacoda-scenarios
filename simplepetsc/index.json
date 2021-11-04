@@ -8,11 +8,6 @@
       {
         "title": "Step 1",
         "text": "step1.md"
-      },
-      {
-        "title": "Step 2",
-        "code": "foreground2.sh",
-        "text": "step2.md"
       }
     ],
     "intro": {
