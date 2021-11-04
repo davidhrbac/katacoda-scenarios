@@ -1,6 +1,6 @@
 {
   "title": "PetSc playground",
-  "description": "Test Desc",
+  "description": "Just a simple PetSc environment based on Ubuntu 20.04.",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
