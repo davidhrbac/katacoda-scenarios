@@ -1,0 +1,29 @@
+{
+  "title": "PetSc playground",
+  "description": "Just a simple PetSc environment based on Ubuntu 20.04.",
+  "difficulty": "Beginner",
+  "time": "60 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "code": "foreground.sh"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "hidefinish": true,
+    "hideintro": true,
+    "uilayout": "vscode"
+  },
+  "backend": {
+    "imageid": "ubuntu:2004"
+  }
+}
